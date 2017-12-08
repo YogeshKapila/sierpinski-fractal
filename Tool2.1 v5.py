@@ -19,7 +19,8 @@ y01 = 0  # y-coordinate Point 2
 x02 = 0  # x-coordinate Point 3
 y02 = 0  # y-coordinate Point 3
 count = 1
-dirname = "C:\Users\User\Desktop\Coordinates_Directory"
+# dirname = "C:\Users\User\Desktop\Coordinates_Directory"
+dirname = os.path.join(os.getcwd(), "Coordinates")
 
 ################### Helper Functions ##########################################
 
