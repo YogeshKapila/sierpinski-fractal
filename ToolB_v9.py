@@ -5,7 +5,7 @@ import os
 import glob
 ''' Calculates coordinates of Sierpinski Gasket Fractal elements. Input: Number of Iterations,
 Frequencies of Operation (Two or Three), Dielectric Constant'''
-''' v4: Inputs base frequency and subsequent frequencies. Draws a perturbation with the width which is taken
+''' v9: Inputs base frequency and subsequent frequencies. Draws a perturbation with the width which is taken
  as a user input. The shape is drawn with origin at centroid of the triangle formed by excluding perturbation.'''
 
 # Globals
