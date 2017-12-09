@@ -5,7 +5,7 @@ import os
 import glob
 ''' Calculates coordinates of Sierpinski Gasket Fractal elements. Input: Number of Iterations,
 Frequencies of Operation (Two or Three), Dielectric Constant'''
-'''v2 : Input base frequency and subsequent frequencies to calculate scale factors'''
+'''v5 : Input base frequency and subsequent frequencies to calculate scale factors'''
 # Globals
 f1 = 0  # Frequency 1
 f2 = 0  # Frequency 2
